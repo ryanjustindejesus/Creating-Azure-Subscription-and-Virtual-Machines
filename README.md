@@ -1,5 +1,5 @@
 <h1>Creating Azure Subscriptions and Virtual Machines</h1>
-This tutorial outlines the installation of Windows and Linux Virtual Machines using Microsoft Azure.
+<b>This tutorial outlines the installation of Windows and Linux Virtual Machines using Microsoft Azure</b>
 
 <h2>Environments and Technologies Used</h2>
 
